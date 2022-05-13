@@ -3,13 +3,14 @@ div.personnel img
     float: left;
     height: 150px;
     border-radius: 50%;
-    background-color:#07c4fa;
+   
 
 }
 .contenu
 {
 width: 500px;
  margin: 10px auto;   
+  background-color:#07c4fa;   
 
 }
 .personnel
